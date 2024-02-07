@@ -1,4 +1,4 @@
-**Gradio Chatbot Usage**
+                                                                                                          **Gradio Chatbot Usage**
 
 This project involves a chatbot application integrated with a Gradio application that takes user input, performs a specific action and returns the results. 
 This custom application translates the user input into English, sends it to the Gradio application, and translates the response back into Turkish and presents it to the user.
